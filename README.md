@@ -22,7 +22,9 @@ Note: cheese can be substituted with gruyere, gouda, or other suitable melting 
 
 In a small bowl, whisk the yeast into the warm water until dissolved. Let stand for 5 minutes.
 
-In the bowl of a stand mixer or a large bowl, combine the 3 cups flour and the salt.
+In the bowl of a stand mixer or a large bowl, combine the 3.5 cups[^flour] flour and the salt.
+
+[^flour]: note: original recipe says `3 cups` here but I believe that is a typo.
 
 ### If using a stand mixer
 
